@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885955460371",
+    "project_id": "ktgkh-12bdd",
+    "storage_bucket": "ktgkh-12bdd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885955460371:android:b693c7c4ac83d4a2b0eee6",
+        "android_client_info": {
+          "package_name": "com.gk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4P6d5Kbni33XbPRsNPhkCz180LAsw9_I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
